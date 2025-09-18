@@ -9,14 +9,14 @@ format:
     incremental: true
     slide-number: c/t
     show-slide-number: all
-    footer: AIAG - IntelligentAgents - Games and Multimedia
+    footer: AIAG - Intelligent Agents - Games and Multimedia
 ---
 
 ## Agents {.smaller}
 
 ![](AgentComposition.drawio.png){width="300" fig-align="center"}
 
--   **Man:** eyes, ..., hands, ...
+-   **Humans:** eyes, ..., hands, ...
 -   **Robots:** cameras, microphones, ..., wheels, "hands", ...
 
 ## How agents should behave {.smaller}
