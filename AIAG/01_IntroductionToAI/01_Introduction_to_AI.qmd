@@ -10,7 +10,7 @@ format:
     incremental: true
     slide-number: c/t
     show-slide-number: all
-    footer: AIAG - Introduction to AI
+    footer: AIAG - Introduction to AI - Games and Multimedia
 ---
 
 ## Object and Goals

@@ -9,7 +9,7 @@ format:
     incremental: true
     slide-number: c/t
     show-slide-number: all
-    footer: AIAG - Introduction to AI - Games and Multimedia
+    footer: AIAG - IntelligentAgents - Games and Multimedia
 ---
 
 ## Agents {.smaller}
