@@ -1,0 +1,3 @@
+project:
+  type: default
+  output-dir: docs   # 👈 this makes sure HTML goes into docs/
